@@ -1,5 +1,8 @@
 This repository contains the computational models, data fitting pipelines, and simulation scripts used to analyze extracellular ATP ($eATP$) kinetics and release fluxes ($J_{efflux}$) in trophoblast cells (**BeWo**) challenged with *Plasmodium falciparum*-infected red blood cells (**iRBCs**).
 
+https://zenodo.org/badge/1361838762.svg
+https://doi.org/10.5281/zenodo.22666687
+
 ## Overview
 
 The dynamics of $[eATP]$ are governed by the balance between cell release mechanisms ($J_{efflux}$) and extracellular hydrolysis mediated by EctoATPases:
