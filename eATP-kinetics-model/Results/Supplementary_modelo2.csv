@@ -1,0 +1,6 @@
+﻿Data;iRBCs NF54-CSA;iRBCs FCR3-CSA;uiRBCs;Mechanical stimulus
+Parameter kefflux-variable;(1,15 ± 0,15)x10-3;(2,42 ± 0,30)x10-3;(1,03 ± 0,17)x10-3;(0,39 ± 0,06)x10-3
+Initial [eATP];0,28 ± 0,05;0,37 ± 0,13;0,26 ± 0,08;0,34 ± 0,02
+Data points;22;24;24;12
+Residuals sum;0,77;5,24;1,87;0,04
+Akaike information criterion;-69,06;-31,97;-56,74;-62,46
